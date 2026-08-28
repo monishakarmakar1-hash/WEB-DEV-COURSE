@@ -1,0 +1,13 @@
+body {
+    background-color: turquoise; /* Sets the page background color. */
+    color: navy; /* Sets the text color. */
+}
+
+button {
+    background-color: navy; /* Sets the button background color. */
+    color: turquoise; /* Sets the button text color. */
+    padding: 10px 20px; /* Adds space inside the button. */
+    border: none; /* Removes the button border. */
+    border-radius: 5px; /* Rounds the button corners. */
+    cursor: pointer; /* Changes the cursor when hovering over the button. */
+}
