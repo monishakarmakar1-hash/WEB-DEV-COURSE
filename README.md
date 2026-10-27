@@ -16,12 +16,12 @@ This repository contains my practice code, exercises, notes, and projects from t
 
 | My Lesson | Playlist Video | Topic | Status | Folder |
 | --- | --- | --- | --- | --- |
-| L-01 | Video 02 | Your First HTML Website | ✅ Completed | [Open L-01](./L-01) |
-| L-02 | Video 03 | Basic Structure of an HTML Website | ✅ Completed | [Open L-02](./L-02) |
-| L-03 | Video 04 | Headings, Paragraphs, and Links | ✅ Completed | [Open L-03](./L-03) |
-| L-04 | Video 05 | Images, Lists, and Tables in HTML | ✅ Completed | [Open L-04](./L-04) |
-| L-05 | Video 06 | SEO and Core Web Vitals in HTML | ✅ Completed | [Open L-05](./L-05) |
-| L-06 | Video 07 | Forms and Input Tags in HTML | 🚧 In progress | [Open L-06](./L-06) |
+| L-01 | Video 01 | A Brief concept of how the websites work | ✅ Completed | [Open L-01](./L-01) |
+| L-02 | Video 02 |  My First HTML Website | ✅ Completed | [Open L-02](./L-02) |
+| L-03 | Video 03 | Basic Structure of an HTML Website  | ✅ Completed | [Open L-03](./L-03) |
+| L-04 | Video 04 | Headings, Paragraphs, and Links | ✅ Completed | [Open L-04](./L-04) |
+| L-05 | Video 06 |  Images, Lists, and Tables in HTML | ✅ Completed | [Open L-05](./L-05) |
+| L-06 | Video 06 | SEO and Core Web Vitals in HTML  | ✅ Competed | [Open L-06](./L-06) |
 
 ## 🚀 How to explore this repository
 
