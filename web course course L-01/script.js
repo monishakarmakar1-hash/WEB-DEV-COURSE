@@ -1,0 +1,1 @@
+alert("welcome to my first webpage"); // Displays a welcome message when the page loads.
