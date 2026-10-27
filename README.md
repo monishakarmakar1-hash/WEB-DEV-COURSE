@@ -1,5 +1,27 @@
 # 🌐 Web Development Journey
 
+## 📊 Learning Dashboard
+
+| Metric | Progress |
+| --- | --- |
+| Lessons completed | **5 / 6** |
+| Completion rate | **83%** |
+| Current focus | **L-06 — Forms and Input Tags** |
+| Learning status | **Consistent progress 🚀** |
+
+### 🔥 Consistency Rate
+
+```text
+█████████████████░░░ 83%
+```
+
+> Consistency is calculated from the lessons completed in this repository. I will update this dashboard whenever a new lesson is completed.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Learning](https://img.shields.io/badge/Status-Learning-2ea44f?style=for-the-badge)
+
 > Learning, building, and documenting my web development journey one lesson at a time.
 
 This repository contains my practice code, exercises, notes, and projects from the [Sigma Web Development Course playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w) by CodeWithHarry.
@@ -57,6 +79,14 @@ Update the dashboard whenever a lesson is completed. For example, after completi
 2. Read the HTML, CSS, and JavaScript files.
 3. Open the HTML file in a browser or use Live Server in VS Code.
 4. Check each lesson as I complete more exercises and projects.
+
+## 🧭 My Learning Principles
+
+- Build something for every lesson.
+- Keep the code simple, readable, and explainable.
+- Review mistakes instead of hiding them.
+- Commit progress regularly.
+- Improve one small skill every day.
 
 ## 📺 Course Playlist
 
