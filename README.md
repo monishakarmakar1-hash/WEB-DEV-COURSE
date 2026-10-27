@@ -4,6 +4,13 @@
 
 This repository contains my practice code, exercises, notes, and projects from the [Sigma Web Development Course playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w) by CodeWithHarry.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Progress-83%25-success?style=for-the-badge" alt="Progress 83 percent">
+</p>
+
 ## 📚 What I am learning
 
 - HTML and semantic webpage structure
@@ -11,6 +18,27 @@ This repository contains my practice code, exercises, notes, and projects from t
 - JavaScript fundamentals and browser interaction
 - Web performance and Core Web Vitals
 - Practical exercises and mini-projects
+
+## 📊 Learning Dashboard
+
+| Metric | Current progress |
+| --- | --- |
+| Lessons completed | **5 / 6** |
+| Completion rate | **83%** |
+| Consistency rate | **83%** |
+| Current focus | **L-06 — Forms and Input Tags** |
+
+### 🔥 Consistency Tracker
+
+```text
+Progress: [█████████████████░░░] 83%
+```
+
+**Consistency rate formula:**
+
+`completed lessons ÷ planned lessons × 100`
+
+Update the dashboard whenever a lesson is completed. For example, after completing `L-06`, change the values to `6 / 6`, `100%`, and update the progress bar to `[█████████████████████] 100%`.
 
 ## 🗂️ Lesson Progress
 
