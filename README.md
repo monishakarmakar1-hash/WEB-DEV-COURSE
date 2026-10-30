@@ -48,7 +48,7 @@ This repository contains my practice code, exercises, notes, and projects from t
 | Lessons completed | **5 / 6** |
 | Completion rate | **83%** |
 | Consistency rate | **83%** |
-| Current focus | **L-06 — Forms and Input Tags** |
+| Current focus | **L-08 — Incline and Block elements in HTML** |
 
 ### 🔥 Consistency Tracker
 
