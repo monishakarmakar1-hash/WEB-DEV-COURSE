@@ -45,7 +45,7 @@ This repository contains my practice code, exercises, notes, and projects from t
 
 | Metric | Current progress |
 | --- | --- |
-| Lessons completed | **5 / 6** |
+| Lessons completed | **7 / 183** |
 | Completion rate | **83%** |
 | Consistency rate | **83%** |
 | Current focus | **L-08 — Incline and Block elements in HTML** |
