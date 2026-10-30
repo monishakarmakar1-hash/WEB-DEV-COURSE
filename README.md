@@ -4,9 +4,9 @@
 
 | Metric | Progress |
 | --- | --- |
-| Lessons completed | **5 / 6** |
+| Lessons completed | **7 / 138** |
 | Completion rate | **83%** |
-| Current focus | **L-06 — Forms and Input Tags** |
+| Current focus | **L-08 — Incline and Block elements in HTML** |
 | Learning status | **Consistent progress 🚀** |
 
 ### 🔥 Consistency Rate
@@ -70,8 +70,9 @@ Update the dashboard whenever a lesson is completed. For example, after completi
 | L-02 | Video 02 |  My First HTML Website | ✅ Completed | [Open L-02](./L-02) |
 | L-03 | Video 03 | Basic Structure of an HTML Website  | ✅ Completed | [Open L-03](./L-03) |
 | L-04 | Video 04 | Headings, Paragraphs, and Links | ✅ Completed | [Open L-04](./L-04) |
-| L-05 | Video 06 |  Images, Lists, and Tables in HTML | ✅ Completed | [Open L-05](./L-05) |
+| L-05 | Video 05|  Images, Lists, and Tables in HTML | ✅ Completed | [Open L-05](./L-05) |
 | L-06 | Video 06 | SEO and Core Web Vitals in HTML  | ✅ Competed | [Open L-06](./L-06) |
+| L-07 | Video 07 | Forms and Input tags in HTML  | ✅ Competed | [Open L.07](./L.07) |
 
 ## 🚀 How to explore this repository
 
