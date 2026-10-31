@@ -15,7 +15,7 @@
 █████████████████░░░ 83%
 ```
 
-> Consistency is calculated from the lessons completed in this repository. I will update this dashboard whenever a new lesson is completed.
+> Consistency is calculated from the lessons completed in this repository. I will update this dashboard whenever a new lesson is completed on a regular basis.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
