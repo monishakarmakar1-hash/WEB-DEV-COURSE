@@ -4,9 +4,9 @@
 
 | Metric | Progress |
 | --- | --- |
-| Lessons completed | **7 / 138** |
-| Completion rate | **83%** |
-| Current focus | **L-08 — Incline and Block elements in HTML** |
+| Lessons completed | **8 / 138** |
+| Completion rate | **6%** |
+| Current focus | **L-09 — id and classes in HTML** |
 | Learning status | **Consistent progress 🚀** |
 
 ### 🔥 Consistency Rate
@@ -30,7 +30,7 @@ This repository contains my practice code, exercises, notes, and projects from t
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Progress-83%25-success?style=for-the-badge" alt="Progress 83 percent">
+  <img src="https://img.shields.io/badge/Progress-6%25-success?style=for-the-badge" alt="Progress 6 percent">
 </p>
 
 ## 📚 What I am learning
@@ -45,10 +45,10 @@ This repository contains my practice code, exercises, notes, and projects from t
 
 | Metric | Current progress |
 | --- | --- |
-| Lessons completed | **7 / 183** |
-| Completion rate | **83%** |
+| Lessons completed | **8 / 138** |
+| Completion rate | **6%** |
 | Consistency rate | **83%** |
-| Current focus | **L-08 — Incline and Block elements in HTML** |
+| Current focus | **L-09 — id and classes in HTML** |
 
 ### 🔥 Consistency Tracker
 
@@ -72,7 +72,8 @@ Update the dashboard whenever a lesson is completed. For example, after completi
 | L-04 | Video 04 | Headings, Paragraphs, and Links | ✅ Completed | [Open L-04](./L-04) |
 | L-05 | Video 05|  Images, Lists, and Tables in HTML | ✅ Completed | [Open L-05](./L-05) |
 | L-06 | Video 06 | SEO and Core Web Vitals in HTML  | ✅ Competed | [Open L-06](./L-06) |
-| L-07 | Video 07 | Forms and Input tags in HTML  | ✅ Competed | [Open L.07](./L.07) |
+| L-07 | Video 07 | Forms and Input tags in HTML  | ✅ Completed | [Open L-07](./L-07) |
+| L-08 | Video 08 | More HTML tags and form practice | ✅ Completed | [Open L-08](./L-08) |
 
 ## 🚀 How to explore this repository
 
@@ -96,6 +97,10 @@ Update the dashboard whenever a lesson is completed. For example, after completi
 ## 🌱 Goal
 
 To build a strong foundation in frontend development through consistent practice and progressively larger projects.
+
+### Latest Lesson
+
+L-08 has been completed and pushed to GitHub. Explore the [L-08 lesson files](./L-08), including the [assignment form](./L-08/assignment01.html).
 
 ---
 
