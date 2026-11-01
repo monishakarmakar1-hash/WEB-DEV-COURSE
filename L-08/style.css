@@ -1,0 +1,12 @@
+p{
+    background-color: oklch(30.253% 0.10077 261.231);
+}
+a{ 
+    background-color: aqua;
+}
+div{
+    background-color: lightgray;
+}
+span{
+    background-color: lightgreen;
+}
