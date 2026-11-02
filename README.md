@@ -1,4 +1,3 @@
-My personal web development workspace — concepts, assignments, experiments, and projects.
 # 🌐 Web Development Journey
 
 ## 📊 Learning Dashboard
